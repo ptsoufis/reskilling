@@ -1,0 +1,6 @@
+node_modules
+reskill-backend-app/node_modules
+reskill-frontentend-app/node_modules
+package-lock.json
+reskill-backend-app/package-lock.json
+reskill-frontentend-app/package-lock.json
